@@ -26,7 +26,6 @@ const FooterBrand = styled.div`
   img {
     height: 50px;
     margin-bottom: ${({ theme }) => theme.spacing.md};
-    filter: brightness(0) invert(1);
   }
 
   p {
@@ -104,7 +103,7 @@ export function Footer() {
       <FooterContainer>
         <FooterTop>
           <FooterBrand>
-            <img src="/logo.jpeg" alt="PinesConcrete" />
+            <img src="/favicon.jpeg" alt="PinesConcrete" />
             <p>
               Quality concrete services for residential and commercial projects
               throughout Werri Beach and the South Coast.
