@@ -69,7 +69,13 @@ Static marketing site for PinesConcrete (Ben McCarthy, Werri Beach). Single-page
 - [x] Initial commit and push
 - [x] Connect to Vercel
 
-### Phase 6: Finish Deployment
+### Phase 6: Update content
+- [x] **ABN**: Remove ABN reference
+- [x] **Years of experience**: 20+
+- [x] **Email address**: `beno81mc@gmail.com`
+- [x] use new logos
+
+### Phase 7: Finish Deployment
 - [ ] Add Web3Forms access key
 - [ ] Configure custom domain
 
@@ -80,3 +86,4 @@ Static marketing site for PinesConcrete (Ben McCarthy, Werri Beach). Single-page
 - **Location**: Werri Beach, NSW
 - **License**: 255088C
 - **Phone**: 0438 703 109
+- **Email**: beno81mc@gmail.com

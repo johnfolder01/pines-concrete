@@ -104,7 +104,7 @@ export function Footer() {
       <FooterContainer>
         <FooterTop>
           <FooterBrand>
-            <img src="/logo.png" alt="PinesConcrete" />
+            <img src="/logo.jpeg" alt="PinesConcrete" />
             <p>
               Quality concrete services for residential and commercial projects
               throughout Werri Beach and the South Coast.
@@ -133,7 +133,7 @@ export function Footer() {
 
         <FooterBottom>
           <span>&copy; {currentYear} PinesConcrete. All rights reserved.</span>
-          <span>Ben McCarthy | ABN/License: 255088C</span>
+          <span>Ben McCarthy | License: 255088C</span>
         </FooterBottom>
       </FooterContainer>
     </FooterWrapper>

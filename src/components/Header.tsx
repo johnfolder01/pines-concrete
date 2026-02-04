@@ -202,7 +202,7 @@ export function Header() {
       <HeaderWrapper>
         <HeaderContainer>
           <Logo href="#home" onClick={closeMenu}>
-            <img src="/logo.png" alt="PinesConcrete" />
+            <img src="/logo.jpeg" alt="PinesConcrete" />
           </Logo>
 
           <Nav>

@@ -112,7 +112,7 @@ export function About() {
           <AboutImage>
             <img src="/project-01.jpeg" alt="PinesConcrete project" />
             <ExperienceBadge>
-              <span>10+</span>
+              <span>20+</span>
               Years Experience
             </ExperienceBadge>
           </AboutImage>
