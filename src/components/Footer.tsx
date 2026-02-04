@@ -133,6 +133,7 @@ export function Footer() {
         <FooterBottom>
           <span>&copy; {currentYear} PinesConcrete. All rights reserved.</span>
           <span>Ben McCarthy | License: 255088C</span>
+          <span>Crafted by <a href="https://cleanswelllines.com" target="_blank" rel="noopener noreferrer">Clean Swell Lines</a></span>
         </FooterBottom>
       </FooterContainer>
     </FooterWrapper>
