@@ -64,10 +64,10 @@ Static marketing site for PinesConcrete (Ben McCarthy, Werri Beach). Single-page
 - [x] Preload critical assets (hero image, fonts)
 
 ### Phase 5: Deploy
-- [ ] Initialize git repository
-- [ ] Create GitHub repo
-- [ ] Initial commit and push
-- [ ] Connect to Vercel
+- [x] Initialize git repository
+- [x] Create GitHub repo
+- [x] Initial commit and push
+- [x] Connect to Vercel
 
 ### Phase 6: Finish Deployment
 - [ ] Add Web3Forms access key
